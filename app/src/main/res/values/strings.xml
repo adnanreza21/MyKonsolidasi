@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyKonsolidasi</string>
+    <string name="about">About</string>
+    <string name="materi_yang_tersedia">Materi yang Tersedia</string>
+    <string name="materi">Materi</string>
+    <string name="silabus_tentang_materi">Silabus Tentang Materi</string>
+    <string name="silabus">Silabus</string>
+    <string name="kuis">Kuis</string>
+    <string name="berisi_profil_pembuat">Berisi Profil Pembuat</string>
+    <string name="berisi_latihan_soal">Berisi Latihan Soal</string>
+    <string name="konsolidasi_tanah">KONSOLIDASI TANAH</string>
+    <string name="profil">Profil</string>
+    <string name="penurunan_konsolidasi">Penurunan Konsolidasi</string>
+    <string name="materi1">Materi 1</string>
+    <string name="materi2">Materi 2</string>
+    <string name="koefisien_konsolidasi">Koefisien Konsolidasi</string>
+    <string name="materi_3">Materi 3</string>
+    <string name="waktu_proses_konsolidasi">Waktu Proses Konsolidasi</string>
+    <string name="materi4">Materi 4</string>
+    <string name="drainasi_vertikal">Drainasi Vertikal</string>
+    <string name="materi_5">Materi 5</string>
+    <string name="pre_loading_pra_pembebanan">Pre-Loading (Pra-Pembebanan)</string>
+    <string name="latihan_soal">Latihan Soal</string>
+    <string name="title_activity_book5">Book5Activity</string>
+    <string name="quis">Quis</string>
+    <string name="soal_pre_loading_pra_pembebanan">Soal Pre-Loading (Pra-Pembebanan)</string>
+    <string name="soal_drainasi_vertikal">Soal Drainasi Vertikal</string>
+    <string name="soal_waktu_proses_konsolidasi">Soal Waktu Proses Konsolidasi</string>
+    <string name="soal_koefisien_konsolidasi">Soal Koefisien Konsolidasi</string>
+    <string name="profil_pembuat">Profil Pembuat</string>
+    <string name="_1_profil_mahasiswa">1. Profil Mahasiswa</string>
+    <string name="nama_brilyan_kuncoro_jati">Nama : Brilyan Kuncoro Jati</string>
+    <string name="nim_15505241055">NIM : 15505241055</string>
+    <string name="email_bkuncoroj_gmail_com">Email : bkuncoroj@gmail.com</string>
+    <string name="_2_profil_dosen_pembimbing">2. Profil Dosen Pembimbing</string>
+    <string name="nama_dr_satoto_endar_nayono_s_t_m_eng_m_sc">Nama : Dr. Satoto Endar Nayono, S.T., M.Eng., M.Sc.</string>
+
+
+</resources>

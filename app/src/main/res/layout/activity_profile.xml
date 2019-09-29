@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/txt22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:background="@color/colorPrimary"
+            android:text="@string/profil"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_20sdp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_marginLeft="@dimen/_5sdp"
+            android:text="@string/_1_profil_mahasiswa"
+            android:textStyle="bold"
+            android:textSize="@dimen/_15sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_marginLeft="@dimen/_5sdp"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:layout_gravity="center"
+            android:layout_width="@dimen/_150sdp"
+            android:layout_height="@dimen/_150sdp"
+            android:src="@drawable/fotoprofil1"/>
+
+        <TextView
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:text="Nama     : Brilyan Kuncoro Jati"
+            android:textSize="@dimen/_15sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:text="NIM        : 15505241055"
+            android:textSize="@dimen/_15sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:text="Email      : bkuncoroj@gmail.com"
+            android:textSize="@dimen/_15sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1sdp"
+            android:layout_margin="@dimen/_10sdp"
+            android:background="@color/lightgray" />
+        <TextView
+            android:layout_marginLeft="@dimen/_5sdp"
+            android:text="@string/_2_profil_dosen_pembimbing"
+            android:textStyle="bold"
+            android:textSize="@dimen/_15sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:text="Nama      : Dr. Satoto Endar Nayono, S.T., M.Eng., M.Sc."
+            android:textSize="@dimen/_15sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:text="NIP          : 197505081999031001"
+            android:textSize="@dimen/_15sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:text="Email 	      : satoto.nayono@uny.ac.id"
+            android:textSize="@dimen/_15sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1sdp"
+            android:layout_margin="@dimen/_10sdp"
+            android:background="@color/lightgray" />
+        <TextView
+            android:layout_marginLeft="@dimen/_5sdp"
+            android:text="3. Profil Validator Materi"
+            android:textStyle="bold"
+            android:textSize="@dimen/_15sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:text="Nama 	   : Ir. Endaryanta, M.T."
+            android:textSize="@dimen/_15sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:text="NIP         : 196111091990011001"
+            android:textSize="@dimen/_15sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:text="Email 	    : endaryanta@yahoo.com"
+            android:textSize="@dimen/_15sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1sdp"
+            android:layout_margin="@dimen/_10sdp"
+            android:background="@color/lightgray" />
+        <TextView
+            android:layout_marginLeft="@dimen/_5sdp"
+            android:text="4. Profil Validator Media"
+            android:textStyle="bold"
+            android:textSize="@dimen/_15sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:text="Nama 	   : Dr. Nuryadin Eko Raharjo, M.Pd."
+            android:textSize="@dimen/_15sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:text="NIP         : 197210152002121002"
+            android:textSize="@dimen/_15sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:text="Email 	    : nuryadin_er@uny.ac.id"
+            android:textSize="@dimen/_15sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1sdp"
+            android:layout_margin="@dimen/_10sdp"
+            android:background="@color/lightgray" />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.amazing.mykonsolidasi">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Quiz4Activity"></activity>
+        <activity android:name=".Quiz2Activity" />
+        <activity
+            android:name=".Book5Activity"
+            android:label="@string/title_activity_book5"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Book4Activity" />
+        <activity android:name=".Book3Activity" />
+        <activity android:name=".Book2Activity" />
+        <activity android:name=".Book1Activity" />
+        <activity android:name=".BookActivity" />
+        <activity android:name=".Quiz3Activity" />
+        <activity android:name=".Quiz1Activity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".QuizActivity" />
+        <activity android:name=".SilabusActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>
